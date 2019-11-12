@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- <button><router-link to='/my'>dianji</router-link> </button> -->
-    <div @click='fn'>点击</div>
+    <div @click='fn'>点击111111</div>
   </div>
 </template>
 
